@@ -1,0 +1,252 @@
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.dll.config
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.pdb
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Antlr3.Runtime.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.SqlServer.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Google.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Web.Infrastructure.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Newtonsoft.Json.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Owin.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\System.Web.Optimization.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\System.Web.Providers.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\WebGrease.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\System.Web.Optimization.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Antlr3.Runtime.pdb
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Newtonsoft.Json.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.SqlServer.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Google.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.dll
+c:\users\e0001342\documents\visual studio 2013\Projects\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.pdb
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.dll.config
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.pdb
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Antlr3.Runtime.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.SqlServer.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Newtonsoft.Json.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Owin.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\System.Web.Optimization.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\System.Web.Providers.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\WebGrease.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\System.Web.Optimization.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Antlr3.Runtime.pdb
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Newtonsoft.Json.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.SqlServer.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.csprojResolveAssemblyReference.cache
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.dll
+C:\Users\e0001342\Downloads\final\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.pdb
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.dll.config
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.pdb
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Antlr3.Runtime.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.SqlServer.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Newtonsoft.Json.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Owin.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\System.Web.Optimization.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\System.Web.Providers.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\WebGrease.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\System.Web.Optimization.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Antlr3.Runtime.pdb
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Newtonsoft.Json.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\EntityFramework.SqlServer.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.dll
+C:\Users\KeljinChow\Downloads\LogicUniversity\sa41team7_logicuniversity_stationery-290216\sa41team7_logicuniversity_stationery\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.pdb
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.dll.config
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.pdb
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Antlr3.Runtime.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\EntityFramework.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\EntityFramework.SqlServer.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Newtonsoft.Json.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Owin.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\System.Web.Optimization.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\System.Web.Providers.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\WebGrease.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\System.Web.Optimization.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Antlr3.Runtime.pdb
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Newtonsoft.Json.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\EntityFramework.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\EntityFramework.SqlServer.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.dll
+C:\Users\e0001342\Downloads\Update(2922016)\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.pdb
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.dll.config
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\sa41team7_logicuniversity_stationery.pdb
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Antlr3.Runtime.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\EntityFramework.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\EntityFramework.SqlServer.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Newtonsoft.Json.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Owin.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\System.Web.Optimization.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\System.Web.Providers.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\WebGrease.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\System.Web.Optimization.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Antlr3.Runtime.pdb
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Newtonsoft.Json.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\EntityFramework.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\EntityFramework.SqlServer.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.csprojResolveAssemblyReference.cache
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.dll
+C:\Users\e0001339\Documents\Update(2922016)\sa41team7_logicuniversity_stationery\obj\Debug\sa41team7_logicuniversity_stationery.pdb

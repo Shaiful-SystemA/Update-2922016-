@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sa41team7_logicuniversity_stationeryModelStoreContainer" CdmEntityContainer="LSEntities">
+    <EntitySetMapping Name="adjustvouchers">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.adjustvoucher">
+        <MappingFragment StoreEntitySet="adjustvoucher">
+          <ScalarProperty Name="voucherID" ColumnName="voucherID" />
+          <ScalarProperty Name="createdate" ColumnName="createdate" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="clerkID" ColumnName="clerkID" />
+          <ScalarProperty Name="approverID" ColumnName="approverID" />
+          <ScalarProperty Name="totalamount" ColumnName="totalamount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="adjustvoucherdetails">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.adjustvoucherdetail">
+        <MappingFragment StoreEntitySet="adjustvoucherdetail">
+          <ScalarProperty Name="voucherdetailID" ColumnName="voucherdetailID" />
+          <ScalarProperty Name="voucherID" ColumnName="voucherID" />
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="reason" ColumnName="reason" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="catalogues">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.catalogue">
+        <MappingFragment StoreEntitySet="catalogue">
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="category" ColumnName="category" />
+          <ScalarProperty Name="description" ColumnName="description" />
+          <ScalarProperty Name="reorderlevel" ColumnName="reorderlevel" />
+          <ScalarProperty Name="reorderqty" ColumnName="reorderqty" />
+          <ScalarProperty Name="unit" ColumnName="unit" />
+          <ScalarProperty Name="bin" ColumnName="bin" />
+          <ScalarProperty Name="balance" ColumnName="balance" />
+          <ScalarProperty Name="image" ColumnName="image" />
+          <ScalarProperty Name="avgprice" ColumnName="avgprice" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="collectionpoints">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.collectionpoint">
+        <MappingFragment StoreEntitySet="collectionpoint">
+          <ScalarProperty Name="collectionpointname" ColumnName="collectionpointname" />
+          <ScalarProperty Name="clerkID" ColumnName="clerkID" />
+          <ScalarProperty Name="collectiontime" ColumnName="collectiontime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="delegateauthorities">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.delegateauthority">
+        <MappingFragment StoreEntitySet="delegateauthority">
+          <ScalarProperty Name="delegateID" ColumnName="delegateID" />
+          <ScalarProperty Name="headID" ColumnName="headID" />
+          <ScalarProperty Name="employeeID" ColumnName="employeeID" />
+          <ScalarProperty Name="startdate" ColumnName="startdate" />
+          <ScalarProperty Name="enddate" ColumnName="enddate" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="departments">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.department">
+        <MappingFragment StoreEntitySet="department">
+          <ScalarProperty Name="departmentID" ColumnName="departmentID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="contactID" ColumnName="contactID" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="fax" ColumnName="fax" />
+          <ScalarProperty Name="headID" ColumnName="headID" />
+          <ScalarProperty Name="collectionpoint" ColumnName="collectionpoint" />
+          <ScalarProperty Name="repID" ColumnName="repID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="disbursements">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.disbursement">
+        <MappingFragment StoreEntitySet="disbursement">
+          <ScalarProperty Name="disbursementID" ColumnName="disbursementID" />
+          <ScalarProperty Name="createdate" ColumnName="createdate" />
+          <ScalarProperty Name="clerkID" ColumnName="clerkID" />
+          <ScalarProperty Name="departmentID" ColumnName="departmentID" />
+          <ScalarProperty Name="repID" ColumnName="repID" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="disbursementdetails">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.disbursementdetail">
+        <MappingFragment StoreEntitySet="disbursementdetail">
+          <ScalarProperty Name="disbursedetailID" ColumnName="disbursedetailID" />
+          <ScalarProperty Name="disbursementID" ColumnName="disbursementID" />
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="actualqty" ColumnName="actualqty" />
+          <ScalarProperty Name="neededqty" ColumnName="neededqty" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="itemprices">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.itemprice">
+        <MappingFragment StoreEntitySet="itemprice">
+          <ScalarProperty Name="priceID" ColumnName="priceID" />
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="supplierID" ColumnName="supplierID" />
+          <ScalarProperty Name="price" ColumnName="price" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="mobilenotifications">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.mobilenotification">
+        <MappingFragment StoreEntitySet="mobilenotification">
+          <ScalarProperty Name="notificationID" ColumnName="notificationID" />
+          <ScalarProperty Name="type" ColumnName="type" />
+          <ScalarProperty Name="senderID" ColumnName="senderID" />
+          <ScalarProperty Name="receiverID" ColumnName="receiverID" />
+          <ScalarProperty Name="sendtime" ColumnName="sendtime" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="podetails">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.podetail">
+        <MappingFragment StoreEntitySet="podetail">
+          <ScalarProperty Name="podetailID" ColumnName="podetailID" />
+          <ScalarProperty Name="poID" ColumnName="poID" />
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="comment" ColumnName="comment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="purchaseorders">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.purchaseorder">
+        <MappingFragment StoreEntitySet="purchaseorder">
+          <ScalarProperty Name="poID" ColumnName="poID" />
+          <ScalarProperty Name="supplierID" ColumnName="supplierID" />
+          <ScalarProperty Name="clerkID" ColumnName="clerkID" />
+          <ScalarProperty Name="orderdate" ColumnName="orderdate" />
+          <ScalarProperty Name="expecteddate" ColumnName="expecteddate" />
+          <ScalarProperty Name="totalamount" ColumnName="totalamount" />
+          <ScalarProperty Name="approverid" ColumnName="approverid" />
+          <ScalarProperty Name="status" ColumnName="status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="requisitions">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.requisition">
+        <MappingFragment StoreEntitySet="requisition">
+          <ScalarProperty Name="requestID" ColumnName="requestID" />
+          <ScalarProperty Name="departmentID" ColumnName="departmentID" />
+          <ScalarProperty Name="userID" ColumnName="userID" />
+          <ScalarProperty Name="requestdate" ColumnName="requestdate" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="approverID" ColumnName="approverID" />
+          <ScalarProperty Name="comment" ColumnName="comment" />
+          <ScalarProperty Name="type" ColumnName="type" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="requisitiondetails">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.requisitiondetail">
+        <MappingFragment StoreEntitySet="requisitiondetail">
+          <ScalarProperty Name="reqdetailID" ColumnName="reqdetailID" />
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+          <ScalarProperty Name="requestID" ColumnName="requestID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="staffs">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.staff">
+        <MappingFragment StoreEntitySet="staff">
+          <ScalarProperty Name="userID" ColumnName="userID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="departmentid" ColumnName="departmentid" />
+          <ScalarProperty Name="role" ColumnName="role" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="stockcards">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.stockcard">
+        <MappingFragment StoreEntitySet="stockcard">
+          <ScalarProperty Name="stockID" ColumnName="stockID" />
+          <ScalarProperty Name="itemID" ColumnName="itemID" />
+          <ScalarProperty Name="transactiondate" ColumnName="transactiondate" />
+          <ScalarProperty Name="issuedtype" ColumnName="issuedtype" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="suppliers">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.supplier">
+        <MappingFragment StoreEntitySet="supplier">
+          <ScalarProperty Name="supplierID" ColumnName="supplierID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="contactname" ColumnName="contactname" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="fax" ColumnName="fax" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="gst" ColumnName="gst" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Retrieval_Form_View">
+      <EntityTypeMapping TypeName="sa41team7_logicuniversity_stationeryModel.Retrieval_Form_View">
+        <MappingFragment StoreEntitySet="Retrieval_Form_View">
+          <ScalarProperty Name="bin" ColumnName="bin" />
+          <ScalarProperty Name="category" ColumnName="category" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="qty" ColumnName="qty" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

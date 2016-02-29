@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1d23aec4f97547ef84dcb280beb1b9c2" Name="Diagram1" ZoomLevel="85">
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.adjustvoucher" Width="1.5" PointX="3" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.adjustvoucherdetail" Width="1.5" PointX="5.25" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.catalogue" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.collectionpoint" Width="1.5" PointX="3" PointY="10" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.delegateauthority" Width="1.5" PointX="3" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.department" Width="1.5" PointX="5.25" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.disbursement" Width="1.5" PointX="10.5" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.disbursementdetail" Width="1.5" PointX="15.75" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.itemprice" Width="1.5" PointX="8" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.mobilenotification" Width="1.5" PointX="3" PointY="16" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.podetail" Width="1.5" PointX="13.25" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.purchaseorder" Width="1.5" PointX="8" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.requisition" Width="1.5" PointX="10.5" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.requisitiondetail" Width="1.5" PointX="12.75" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.staff" Width="1.5" PointX="0.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.stockcard" Width="1.5" PointX="5.25" PointY="2.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.supplier" Width="1.5" PointX="5.75" PointY="15.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.sysdiagram" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="sa41team7_logicuniversity_stationeryModel.Retrieval_Form_View" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_adjustvoucher_user" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_adjustvoucher_user1" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_adjustvoucherdetail_adjustvoucher" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_adjustvoucherdetail_catalogue" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_dibursementdetail_catalogue" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_itemprice_catalogue" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_podetail_item" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_requesitiondetail_catalogue" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_stockcard_item" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_collectionpoint_user" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_department_collectionpoint" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_delegate_user" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_delegate_user1" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_department_head" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_department_rep" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_department_user" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_disbursement_department" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_requisition_department" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_dibursementdetail_disbursement" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_disbursement_clerk" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_disbursement_rep" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_itemprice_supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_notification_receive" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_notification_sender" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_podetail_po" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_purchaseorder_approver" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_purchaseorder_clerk" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_purchaseorder_supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_requesitiondetail_requisition" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_requisition_approver" ManuallyRouted="false" />
+        <AssociationConnector Association="sa41team7_logicuniversity_stationeryModel.FK_requisition_user" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
