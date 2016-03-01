@@ -14,14 +14,14 @@
                     
                     <asp:Label ID="lb_newcollectionpoint" runat="server" Text="New Collection Point:"></asp:Label><br/>
 
-                    <asp:RadioButton ID="rb_stationerystore" runat="server" />&nbsp;&nbsp; Stationery Store Administration Building (9.30am)<br/>
+                    <asp:RadioButton ID="rb_stationerystore" runat="server" OnCheckedChanged="rb_stationerystore_CheckedChanged" />&nbsp;&nbsp; Stationery Store Administration Building (9.30am)<br/>
                     <asp:RadioButton ID="rb_managementschool" runat="server" />&nbsp;&nbsp; Management School (11.00am)<br/>
                     <asp:RadioButton ID="rb_medicalschool" runat="server" />&nbsp;&nbsp; Medical School (11.00am)<br/>
                     <asp:RadioButton ID="rb_engineeringschool" runat="server" />&nbsp;&nbsp; Engineering School (11.00am)<br/>
                     <asp:RadioButton ID="rb_scienceschool" runat="server" />&nbsp;&nbsp; Science School (9.30am)<br/>
-                    <asp:RadioButton ID="rb_universityhospital" runat="server" />&nbsp;&nbsp; University Hospital (11.00am)<br/><br/>
+                    <asp:RadioButton ID="rb_universityhospital" runat="server" OnCheckedChanged="rb_universityhospital_CheckedChanged" />&nbsp;&nbsp; University Hospital (11.00am)<br/><br/>
 
-                    <asp:Button ID="btn_update" runat="server" Text="Update" />
+                    <asp:Button ID="btn_update" runat="server" Text="Update" OnClick="btn_update_Click" />
                 </td>
             </tr>
         </table>

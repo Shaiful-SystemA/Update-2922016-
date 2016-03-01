@@ -20,4 +20,8 @@
             </tr>
         </table>
     </div>
+    <asp:DataList ID="DataList1" runat="server">
+    </asp:DataList>
+    <asp:GridView ID="GridView1" runat="server">
+    </asp:GridView>
 </asp:Content>

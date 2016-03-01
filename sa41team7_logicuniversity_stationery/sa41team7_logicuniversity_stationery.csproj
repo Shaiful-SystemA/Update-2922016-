@@ -339,6 +339,8 @@
     <Compile Include="collectionpoint.cs">
       <DependentUpon>LSEntities.tt</DependentUpon>
     </Compile>
+    <Compile Include="Controller\ChangeCollectionPointController.cs" />
+    <Compile Include="Controller\MaintainChangeRepresentativeController.cs" />
     <Compile Include="Controller\MaintainDepartmentListController.cs" />
     <Compile Include="Controller\MaintainSupplierInformationController.cs" />
     <Compile Include="Controller\RequisitionController.cs" />

@@ -24,6 +24,13 @@ namespace sa41team7_logicuniversity_stationery.DAO
             return ctx.staffs.Where(x => x.userID == userid).FirstOrDefault();
         }
 
+        //public List<user> getAllEmployee(User u)
+        //{
+        //    var t = (from x in luse.users
+        //             where x.departmentId == u.DepartmentId
+        //             select x).ToList();
+        //    return t;
+        //}
       
     }
 }
